@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542456680 source:c:\users\lanphy\desktop\poo-tema2\grafuri\main.cpp
+	<iostream>
+	"Mosteniri.h"
+
+1542456713 c:\users\lanphy\desktop\poo-tema2\grafuri\mosteniri.h
+	"Clase.h"
+
+1542454776 c:\users\lanphy\desktop\poo-tema2\grafuri\clase.h
+
